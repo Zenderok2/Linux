@@ -1,0 +1,31 @@
+123
+echo 123
+help
+-help
+exit
+123
+echo 123
+echo привет
+exit
+echo 123
+exit
+учше
+exit
+echo 123
+213321321
+exit
+echo 123
+fff
+echo 123
+clear
+exit
+echo 123
+/q
+\q
+/e PATH
+\e PATH
+\e $PATH
+ls
+ls -r
+ls d
+ls
